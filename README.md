@@ -4,7 +4,8 @@ activity 1
 
 activity 2
 
-![lucky_number](https://github.com/user-attachments/assets/c98c4aff-d47e-404a-a274-6b2df0ddc731)
+![lucky_number_1](https://github.com/user-attachments/assets/43a7e14d-f3b5-4665-a176-b1f9e2a94b18)
+
 
 
 ![share](https://github.com/user-attachments/assets/a05edfdb-b648-465b-a3a6-61f0e32296cf)
